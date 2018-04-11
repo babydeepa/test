@@ -7,7 +7,9 @@ Two common ways to document a project are README files and wikis:
   * README files are a quick and simple way for other users to learn more about your work.
   * Wikis on GitHub help you present in-depth information about your project in a useful way.
 
-You can add code snippet to README.md so that the readers can understand better.
+You can add code snippet to README.md so that the readers can understand better.HE,HSEKZ
+HGMRHTMHRK
+YJYKKJK6
 Enclose the code snippet in back ticks to highlight the code.
 
 ```Here goes the code :)
